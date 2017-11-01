@@ -17,7 +17,7 @@
         "fig/http-message-util": "^1.1",
         "google/auth": "^0.11.0|^1.0",
         "guzzlehttp/guzzle": "^5.3.1|~6.0",
-        "ianlintner/firebase-tokens": "master",
+        "ianlintner/firebase-tokens-legacy": "master",
         "lcobucci/jwt": "^3.2",
         "mtdowling/jmespath.php": "^2.3"
     },
